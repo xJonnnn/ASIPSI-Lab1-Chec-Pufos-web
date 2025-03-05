@@ -1,4 +1,4 @@
-# ASIPSI-Lab1-Limonada-web
+# ASIPSI-Lab1-Chec-Pufos-web
 Reteta Chec Pufos 
 Iată o rețetă simplă pentru un chec pufos de 450g:
 
